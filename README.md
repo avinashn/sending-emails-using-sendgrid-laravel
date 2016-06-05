@@ -12,7 +12,7 @@
 </ul>
 
 ## Working Demo
-You can see the youtube of the project <a href="https://www.youtube.com/watch?v=1BhMC6dOTXs" target="_blank">here</a>
+You can see the youtube video demonstrating the project <a href="https://www.youtube.com/watch?v=1BhMC6dOTXs" target="_blank">here</a>
 
 ## Reference Post
 <a href="http://justlaravel.com/sending-emails-using-sendgrid-laravel/">http://justlaravel.com/sending-emails-using-sendgrid-laravel/
